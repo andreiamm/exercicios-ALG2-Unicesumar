@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657152878 source:e:\andreia\samsung\documentos\cursos\unicesumar\2022-52 algoritmos e logica de programacao ii\exercicios\unid05exerc07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
